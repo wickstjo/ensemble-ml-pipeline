@@ -1,0 +1,3 @@
+## Machine Learning Pipeline
+
+This is a project I created for a machine learning course. It takes stockmarket data and runs it through a dynamic pipeline that trains multiple regression models that together create an entirely new dataset that multiple classifier models are then trained on and used to predict future outcomes. A pipelines dynamic configuration is defined in a yaml-file that the application parses for instructions.
